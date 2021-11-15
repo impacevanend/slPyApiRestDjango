@@ -1,0 +1,9 @@
+Run test comand:
+
+python manage.py test
+
+create model user to test work!
+
+AbstractBaseUser -> creamos un usuario
+BaseUserManager -> creamos un manager para el usuario
+PermissionsMixin -> creamos una clase para los permisos del usuario
